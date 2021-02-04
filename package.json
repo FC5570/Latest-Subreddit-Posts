@@ -1,0 +1,30 @@
+{
+  "name": "latest-subreddit-posts",
+  "version": "1.0.0",
+  "description": "A discord bot used for notifying people on your Discord Server, when a new post appears on a subreddit.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/Latest-Subreddit-Posts.git"
+  },
+  "keywords": [
+    "discord",
+    "latest-subreddit",
+    "subreddit-posts",
+    "latest-posts",
+    "discord-notifier"
+  ],
+  "author": "FC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FC5570/Latest-Subreddit-Posts/issues"
+  },
+  "homepage": "https://github.com/FC5570/Latest-Subreddit-Posts#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "reddit-helper": "^1.0.2"
+  }
+}
