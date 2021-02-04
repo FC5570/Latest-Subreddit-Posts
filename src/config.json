@@ -1,5 +1,5 @@
 {
-    "token": "NzY2MjA4MTUxMDcwNDQxNDcy.X4gA8g.E4i2M947bDgmgg8Bk4twQDOJ0_w",
-    "subreddit": ["memes"],
-    "channelID": "766185449022423081"
+    "token": "discord bot token",
+    "subreddit": ["subreddits to listen to for notifications as an array, seperated by a comma, example:", "subreddit 1", "subreddit 2"],
+    "channelID": "discord channel id to send notifications to send in."
 }
